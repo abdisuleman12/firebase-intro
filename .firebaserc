@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "fir-c9d10",
+    "production": "fir-c9d10"
+  }
+}
